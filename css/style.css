@@ -275,6 +275,7 @@ img{
     width: 300px;
     padding: 20px;
     border-radius: 20px;
+    overflow: hidden;
 }
 #languajes-section .icon-container {
     height: 66.666666%;
